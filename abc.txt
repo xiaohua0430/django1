@@ -1,4 +1,10 @@
 bcaidihga
+<<<<<<< Updated upstream
 
 12WQ
 
+=======
+f234!
+da12
+	bcaidihga
+>>>>>>> Stashed changes
